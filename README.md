@@ -1,2 +1,1 @@
-# flowpeak
-CLI API
+CLI API for python 

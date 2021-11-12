@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/flowpeak.egg-info/PKG-INFO
+src/flowpeak.egg-info/SOURCES.txt
+src/flowpeak.egg-info/dependency_links.txt
+src/flowpeak.egg-info/top_level.txt
