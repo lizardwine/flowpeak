@@ -1,6 +1,5 @@
 from colorama import init, Fore, Back, Style
-import os
-import platform
+import os,platform
 init(autoreset = True)
 class FColor:
 	BLACK = Fore.BLACK
